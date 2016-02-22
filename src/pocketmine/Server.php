@@ -1737,6 +1737,7 @@ class Server{
 		   §fVersion: §6" . $this->getPocketMineVersion() . "
 		   §fClient Version: §d". \pocketmine\MINECRAFT_VERSION ."
 		   §fYou could get the lastest code on https://github.com/iTXTech/Genisys
+		   §eRussian group: http://vk.com/iTXTECH
 		   §fDonate link: http://pl.zxda.net/plugins/203.html
 		   §f如果你在免费使用本核心，希望你可以进入上面的链接捐赠给我们，这会成为我们前进的动力。
 		\n";
